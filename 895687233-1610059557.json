@@ -1,0 +1,24 @@
+{
+  "id": "https://babel.hathitrust.org/cgi/mb?a=listis;c=",
+  "type": "http://purl.org/dc/dcmitype/Collection",
+  "description": "",
+  "created": "guest",
+  "extent": 1,
+  "formats": "text/txt",
+  "publisher": {"id":"https://www.hathitrust.org"},
+  "title": "Image-Tutorial",
+  "visibility": "private",
+  "gathers": [
+    {
+      "title": "The seven lamps of architecture ",
+      "author": "Ruskin, John, 1819-1900.",
+      "date": "1913-00-00",
+      "rights": "pd",
+      "oclc": ["21076561"],
+      "lccn": null,
+      "isbn": null,
+      "catalog_url": "https://catalog.hathitrust.org/Record/100191655",
+      "htitem_id": "uc1.c034715755"
+    }
+  ]
+}
