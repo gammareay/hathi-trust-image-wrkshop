@@ -1,0 +1,68 @@
+{
+  "id": "https://babel.hathitrust.org/cgi/mb?a=listis;c=",
+  "type": "http://purl.org/dc/dcmitype/Collection",
+  "description": "",
+  "created": "guest",
+  "extent": 5,
+  "formats": "text/txt",
+  "publisher": {"id":"https://www.hathitrust.org"},
+  "title": "Color Theory",
+  "visibility": "private",
+  "gathers": [
+    {
+      "title": "Gothic architecture: a lecture for the Arts and crafts exhibition society by William Morris ",
+      "author": "Morris, William, 1834-1896.",
+      "date": "1893-00-00",
+      "rights": "pdus",
+      "oclc": ["2032913"],
+      "lccn": ["47034013"],
+      "isbn": null,
+      "catalog_url": "https://catalog.hathitrust.org/Record/102383517",
+      "htitem_id": "ucbk.ark:/28722/h2r78d"
+    },
+    {
+      "title": "Of the friendship of Amis and Amile done out of the ancient French into English by William Morris ",
+      "author": "Morris, William, 1834-1896.",
+      "date": "1894-00-00",
+      "rights": "pdus",
+      "oclc": ["2010362"],
+      "lccn": ["49-34251"],
+      "isbn": null,
+      "catalog_url": "https://catalog.hathitrust.org/Record/100218790",
+      "htitem_id": "osu.32435017951849"
+    },
+    {
+      "title": "Sonnets and lyrical poems by Dante Gabriel Rossetti ",
+      "author": "Rossetti, Dante Gabriel, 1828-1882.",
+      "date": "1894-00-00",
+      "rights": "pdus",
+      "oclc": ["1538177"],
+      "lccn": null,
+      "isbn": null,
+      "catalog_url": "https://catalog.hathitrust.org/Record/100218738",
+      "htitem_id": "osu.32435018001339"
+    },
+    {
+      "title": "The story of the Glittering Plain which has been also called the Land of Living Men or the Acre of the Undying written by William Morris ",
+      "author": "Morris, William, 1834-1896.",
+      "date": "1894-00-00",
+      "rights": "pd",
+      "oclc": ["2154242"],
+      "lccn": ["22019573"],
+      "isbn": null,
+      "catalog_url": "https://catalog.hathitrust.org/Record/010939899",
+      "htitem_id": "nc01.ark:/13960/t0ms3rp9v"
+    },
+    {
+      "title": "Utopia written by Sir Thomas More [and translated into English by Ralph Robinson ",
+      "author": "More, Thomas, Sir, Saint, 1478-1535.",
+      "date": "1893-00-00",
+      "rights": "pdus",
+      "oclc": ["2129218"],
+      "lccn": ["11002343"],
+      "isbn": null,
+      "catalog_url": "https://catalog.hathitrust.org/Record/010945179",
+      "htitem_id": "dul1.ark:/13960/t9d51b51z"
+    }
+  ]
+}
