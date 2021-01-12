@@ -1,0 +1,24 @@
+{
+  "id": "https://babel.hathitrust.org/cgi/mb?a=listis;c=",
+  "type": "http://purl.org/dc/dcmitype/Collection",
+  "description": "",
+  "created": "guest",
+  "extent": 1,
+  "formats": "text/txt",
+  "publisher": {"id":"https://www.hathitrust.org"},
+  "title": "Color Theory",
+  "visibility": "private",
+  "gathers": [
+    {
+      "title": "Goethe's theory of colours, tr. from the German ",
+      "author": "Goethe, Johann Wolfgang von, 1749-1832.",
+      "date": "1840-00-00",
+      "rights": "pd",
+      "oclc": ["2743782"],
+      "lccn": ["13011178"],
+      "isbn": null,
+      "catalog_url": "https://catalog.hathitrust.org/Record/001481312",
+      "htitem_id": "mdp.39015011595272"
+    }
+  ]
+}
