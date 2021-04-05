@@ -1,0 +1,24 @@
+{
+  "id": "https://babel.hathitrust.org/cgi/mb?a=listis;c=",
+  "type": "http://purl.org/dc/dcmitype/Collection",
+  "description": "",
+  "created": "guest",
+  "extent": 1,
+  "formats": "text/txt",
+  "publisher": {"id":"https://www.hathitrust.org"},
+  "title": "Color Theory",
+  "visibility": "private",
+  "gathers": [
+    {
+      "title": "A chronology of paper and paper-making by Joel Munsell ",
+      "author": "Munsell, Joel, 1808-1880.",
+      "date": "1870-00-00",
+      "rights": "pd",
+      "oclc": ["1158638"],
+      "lccn": ["10000968"],
+      "isbn": null,
+      "catalog_url": "https://catalog.hathitrust.org/Record/009602798",
+      "htitem_id": "hvd.32044055074058"
+    }
+  ]
+}
