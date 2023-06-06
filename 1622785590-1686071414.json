@@ -1,0 +1,42 @@
+{
+  "id": "https://babel.hathitrust.org/cgi/mb?a=listis;c=1622785590",
+  "type": "http://purl.org/dc/dcmitype/Collection",
+  "description": "",
+  "extent": 1,
+  "formats": "text/txt",
+  "publisher": {"id":"https://www.hathitrust.org"},
+  "title": "landscape",
+  "visibility": "private",
+  "gathers": [
+    {
+      "htid": "hvd.32044103111878",
+      "access": 1,
+      "rights": "pd",
+      "ht_bib_key": "11608839",
+      "description": "",
+      "source": "HVD",
+      "source_bib_num": "007191457",
+      "oclc_num": "175303781",
+      "isbn": "",
+      "issn": null,
+      "lccn": null,
+      "title": "A Treatise on the Theory and Practice of Landscape Gardening Adapted to North America.",
+      "imprint": "1844.",
+      "rights_reason_code": "bib",
+      "rights_timestamp": "2012-05-27 19:31:15",
+      "us_gov_doc_flag": 0,
+      "rights_date_used": 1844,
+      "pub_place": "xx ",
+      "lang": "eng",
+      "bib_fmt": "BK",
+      "collection_code": "HVD",
+      "content_provider_code": "harvard",
+      "responsible_entity_code": "harvard",
+      "digitization_agent_code": "google",
+      "access_profile_code": "google",
+      "author": "Downing, A. J. 1815-1852.",
+      "catalog_url": "https://catalog.hathitrust.org/Record/11608839",
+      "handle_url": "https://hdl.handle.net/2027/hvd.32044103111878"
+    }
+  ]
+}
