@@ -1,0 +1,42 @@
+{
+  "id": "https://babel.hathitrust.org/cgi/mb?a=listis;c=2139227141",
+  "type": "http://purl.org/dc/dcmitype/Collection",
+  "description": "",
+  "extent": 1,
+  "formats": "text/txt",
+  "publisher": {"id":"https://www.hathitrust.org"},
+  "title": "type-specimens",
+  "visibility": "private",
+  "gathers": [
+    {
+      "htid": "hvd.32044046685640",
+      "access": 1,
+      "rights": "pdus",
+      "ht_bib_key": "117449",
+      "description": "",
+      "source": "HVD",
+      "source_bib_num": "004615058",
+      "oclc_num": "942141",
+      "isbn": "",
+      "issn": null,
+      "lccn": null,
+      "title": "Old faces of Roman and medieval types lately added to the De Vinne Press.",
+      "imprint": "The De Vinne Press, 1897.",
+      "rights_reason_code": "bib",
+      "rights_timestamp": "2014-10-05 03:25:43",
+      "us_gov_doc_flag": 0,
+      "rights_date_used": 1897,
+      "pub_place": "xx ",
+      "lang": "eng",
+      "bib_fmt": "BK",
+      "collection_code": "HVD",
+      "content_provider_code": "harvard",
+      "responsible_entity_code": "harvard",
+      "digitization_agent_code": "google",
+      "access_profile_code": "google",
+      "author": "De Vinne Press.",
+      "catalog_url": "https://catalog.hathitrust.org/Record/117449",
+      "handle_url": "https://hdl.handle.net/2027/hvd.32044046685640"
+    }
+  ]
+}
