@@ -1,0 +1,42 @@
+{
+  "id": "https://babel.hathitrust.org/cgi/mb?a=listis;c=1136717253",
+  "type": "http://purl.org/dc/dcmitype/Collection",
+  "description": "",
+  "extent": 1,
+  "formats": "text/txt",
+  "publisher": {"id":"https://www.hathitrust.org"},
+  "title": "architecture texts",
+  "visibility": "publish",
+  "gathers": [
+    {
+      "htid": "coo1.ark:/13960/t1bk94p6z",
+      "access": 1,
+      "rights": "pd",
+      "ht_bib_key": "100594018",
+      "description": "",
+      "source": "COO",
+      "source_bib_num": "2753577",
+      "oclc_num": "2553034",
+      "isbn": "",
+      "issn": null,
+      "lccn": null,
+      "title": "Flowers, their use and beauty in language and sentiment / by Arthur Freeling.",
+      "imprint": "Darton, [1857?]",
+      "rights_reason_code": "bib",
+      "rights_timestamp": "2021-05-09 03:25:20",
+      "us_gov_doc_flag": 0,
+      "rights_date_used": 1857,
+      "pub_place": "enk",
+      "lang": "eng",
+      "bib_fmt": "BK",
+      "collection_code": "COO",
+      "content_provider_code": "cornell",
+      "responsible_entity_code": "cornell",
+      "digitization_agent_code": "cornell-ms",
+      "access_profile_code": "open",
+      "author": "Freeling, Arthur.",
+      "catalog_url": "https://catalog.hathitrust.org/Record/100594018",
+      "handle_url": "https://hdl.handle.net/2027/coo1.ark:/13960/t1bk94p6z"
+    }
+  ]
+}
